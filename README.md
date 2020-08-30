@@ -26,7 +26,7 @@ localizado em %HOMEPATH%/data/out
 **Visualizando imagem:**
 * docker images
 
-**Executando container
+**Executando container**
 *docker run -p 8080:8080 alissoncostax/spring-docker-spotify:0.0.1-SNAPSHOT*
 
 * O resultado do processamento será um arquivo no formato <code>.done.dat</code> localizado em <code>%HOMEPATH%/data/out</code> 
