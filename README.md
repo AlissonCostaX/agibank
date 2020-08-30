@@ -1,5 +1,5 @@
 # Agibank API
-> API para Processamento de Arquivo .dat da Prova Agibank.
+> API para Processamento de Arquivo .dat da Agibank.
 
 O Projeto busca atender aos requisitos solicitados na prova Agibank.
 É realizado a importação do arquivo com formato .dat em %HOMEPATH%/data/in e em seguida a análise do conteúdo do arquivo, 
