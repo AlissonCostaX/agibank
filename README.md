@@ -21,11 +21,13 @@ localizado em %HOMEPATH%/data/out
 * Necessário ter arquivo em <code>%HOMEPATH%/data/in</code> com formato .dat para sucesso na execução.
 
 **Criar imagem docker:**
-* Para criar uma imagem com o plugin do maven execute: mvn package.
+* Para criar uma imagem com o plugin do maven execute: mvn package
+
 **Visualizando imagem:**
 * docker images
+
 **Executando container
-**docker run -p 8080:8080 alissoncostax/spring-docker-spotify:0.0.1-SNAPSHOT
+*docker run -p 8080:8080 alissoncostax/spring-docker-spotify:0.0.1-SNAPSHOT*
 
 * O resultado do processamento será um arquivo no formato <code>.done.dat</code> localizado em <code>%HOMEPATH%/data/out</code> 
 
